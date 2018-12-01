@@ -1,0 +1,26 @@
+// EXE_RSC
+// EXE_CLEAN
+// DM Environment file for Taste.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "icons"
+#define FILE_DIR "sounds"
+// END_FILE_DIR
+
+// BEGIN_INCLUDE
+#include "main.dm"
+#include "interface.dmf"
+#include "map.dmm"
+// END_INCLUDE
+
+// BEGIN_PAINTER_DIR
+// END_PAINTER_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+// BEGIN_INTERNALS
+/*
+FILE: 
+*/
+// END_INTERNALS

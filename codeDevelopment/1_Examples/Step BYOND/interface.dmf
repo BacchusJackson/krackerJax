@@ -1,0 +1,198 @@
+macro "macro"
+	elem 
+		name = "North+REP"
+		command = ".north"
+		is-disabled = false
+	elem 
+		name = "South+REP"
+		command = ".south"
+		is-disabled = false
+	elem 
+		name = "East+REP"
+		command = ".east"
+		is-disabled = false
+	elem 
+		name = "West+REP"
+		command = ".west"
+		is-disabled = false
+	elem 
+		name = "Northeast+REP"
+		command = ".northeast"
+		is-disabled = false
+	elem 
+		name = "Northwest+REP"
+		command = ".northwest"
+		is-disabled = false
+	elem 
+		name = "Southeast+REP"
+		command = ".southeast"
+		is-disabled = false
+	elem 
+		name = "Southwest+REP"
+		command = ".southwest"
+		is-disabled = false
+	elem 
+		name = "Center+REP"
+		command = ".center"
+		is-disabled = false
+
+
+menu "menu"
+
+
+window "mainWindow"
+	elem "mainWindow"
+		type = MAIN
+		pos = 281,0
+		size = 799x599
+		anchor1 = none
+		anchor2 = none
+		font-family = ""
+		font-size = 0
+		text-color = #000000
+		background-color = #000000
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = true
+		border = none
+		drop-zone = false
+		right-click = false
+		saved-params = "pos;size;is-maximized"
+		title = "Two Steps BYOND"
+		titlebar = true
+		statusbar = true
+		can-close = true
+		can-minimize = true
+		can-resize = true
+		is-pane = false
+		is-maximized = false
+		image = ""
+		image-mode = stretch
+		keep-aspect = false
+		transparent-color = none
+		alpha = 255
+		macro = "macro"
+		menu = "menu"
+	elem "map"
+		type = MAP
+		pos = 8,8
+		size = 480x480
+		anchor1 = 1,1
+		anchor2 = 61,81
+		font-family = ""
+		font-size = 0
+		text-color = #000000
+		background-color = none
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = false
+		border = none
+		drop-zone = true
+		right-click = false
+		saved-params = "icon-size"
+		icon-size = 0
+		text-mode = false
+		on-show = ""
+		on-hide = ""
+	elem "output"
+		type = OUTPUT
+		pos = 496,8
+		size = 296x496
+		anchor1 = 62,1
+		anchor2 = 99,84
+		font-family = ""
+		font-size = 10
+		text-color = #ffffff
+		background-color = #000000
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = true
+		border = none
+		drop-zone = false
+		right-click = false
+		saved-params = "max-lines"
+		link-color = #f8f4af
+		visited-color = #e6a42b
+		style = ""
+		enable-http-images = false
+		max-lines = 0
+	elem "inventory"
+		type = GRID
+		pos = 8,496
+		size = 480x80
+		anchor1 = 1,83
+		anchor2 = 61,96
+		font-family = ""
+		font-size = 0
+		text-color = #ffffff
+		background-color = #000000
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = true
+		border = line
+		drop-zone = true
+		right-click = false
+		saved-params = ""
+		cells = 0x0
+		current-cell = 0,0
+		show-lines = none
+		small-icons = false
+		enable-http-images = false
+		link-color = #f8f4af
+		visited-color = #e6a42b
+		line-color = #000000
+		style = ""
+		is-list = false
+	elem "input"
+		type = INPUT
+		pos = 8,584
+		size = 480x24
+		anchor1 = 1,97
+		anchor2 = 61,100
+		font-family = ""
+		font-size = 10
+		text-color = #ffffff
+		background-color = #232323
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = true
+		border = line
+		drop-zone = false
+		right-click = false
+		saved-params = ""
+		command = ""
+		multi-line = false
+		is-password = false
+	elem "info1"
+		type = INFO
+		pos = 496,516
+		size = 296x92
+		anchor1 = 62,86
+		anchor2 = 99,100
+		font-family = ""
+		font-size = 0
+		text-color = #ffffff
+		background-color = #000000
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = false
+		border = none
+		drop-zone = true
+		right-click = false
+		saved-params = ""
+		highlight-color = #f8f4af
+		tab-text-color = #ffffff
+		tab-background-color = #000000
+		tab-font-family = ""
+		tab-font-size = 0
+		allow-html = true
+		multi-line = true
+		on-show = ""
+		on-hide = ""
+

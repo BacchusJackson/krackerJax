@@ -2743,11 +2743,11 @@ mob/proc/History()
 						DefMod*=1.2
 						PowMod*=0.8
 						StrMod*=0.8
-			If("Tsufurujin Experiment")
-			  History="Tsufurujin Experiment"
-			  var/Choice=Alert(src, "As a new born baby you were taken away by tsufurujin scientists and experimented upon, their goal was to mold you into a perfect weapon for them to use against the saiyan race. However what they made was to powerful to control, you broke free and started destroying everything in sight, as a result of their experimentation you're able to transform into a super saiyan, effectively making you an 'artificial lssj' in the sense that you were made/altered to become one rather then being born as such.")
-			  switch(Choice)
-			        if("No") History()
+			if("Tsufurujin Experiment")
+				History="Tsufurujin Experiment"
+			  	var/Choice=alert(src, "As a new born baby you were taken away by tsufurujin scientists and experimented upon, their goal was to mold you into a perfect weapon for them to use against the saiyan race. However what they made was to powerful to control, you broke free and started destroying everything in sight, as a result of their experimentation you're able to transform into a super saiyan, effectively making you an 'artificial lssj' in the sense that you were made/altered to become one rather then being born as such.")
+			  	switch(Choice)
+			    	if("No") History()
 					if("Yes")
 					   EndMod*=0.7
 					   ResMod*=0.7
@@ -2975,7 +2975,7 @@ mob/proc/History()
 					   KiRegen*=1.3
 			if("Soldier")
 			   History="Soldier"
-			   var/Choice=alert(src,"You're a soldier in the saiyan army, mostly you do grunt work but on rare occasions you get put on riskier missions. Most people would consider those moments to be suicidal but you see it as a chance to shine and prove your worth as a full fledged saiyan warrior."
+			   var/Choice=alert(src,"You're a soldier in the saiyan army, mostly you do grunt work but on rare occasions you get put on riskier missions. Most people would consider those moments to be suicidal but you see it as a chance to shine and prove your worth as a full fledged saiyan warrior.")
 			   switch(Choice)
 			       if("No") History()
 				   if("Yes")
@@ -3110,7 +3110,7 @@ mob/proc/History()
 						KiMod*=1.3
 			if("Guardian")
 			    History="Guardian"
-				var/Choice=alert(src,"You are a protector of the Heavens, an enforcer of the kaios. You've spent your life in service of the Heavens and pride yourself on your service. No day passes where you are not prepared to lay down your life for all that is good and to keep the souls in Heaven safe."
+				var/Choice=alert(src,"You are a protector of the Heavens, an enforcer of the kaios. You've spent your life in service of the Heavens and pride yourself on your service. No day passes where you are not prepared to lay down your life for all that is good and to keep the souls in Heaven safe.")
 				switch(Choice)
 				    if("No") History()
 					if("Yes")
@@ -3120,7 +3120,7 @@ mob/proc/History()
 						ResMod*=0.8
 			if("Demi Caretaker")
 			    History="Demi Caretaker"
-				var/Choice=alert(src,"Unlike your brothers and sisters you did not partake in combat training, nor did you show interest in it. Perhaps this was because you don't enjoy fighting, or perhaps you're simply not good at it. Because of this you decided to make yourself useful in other ways, now assisting the kaios and souls in heaven by taking care of structures, services or perhaps even by inventing things from time to time."
+				var/Choice=alert(src,"Unlike your brothers and sisters you did not partake in combat training, nor did you show interest in it. Perhaps this was because you don't enjoy fighting, or perhaps you're simply not good at it. Because of this you decided to make yourself useful in other ways, now assisting the kaios and souls in heaven by taking care of structures, services or perhaps even by inventing things from time to time.")
 				switch(Choice)
 				    if("No") History()
 					if("Yes")
@@ -3141,7 +3141,7 @@ mob/proc/History()
 						DefMod*=0.7
 			If("Pantheon")
 			    History="Pantheon"
-				var/Choice=alert(src,"You served the forces of good by aligning yourself with a pantheon, declaring yourself things like 'the living embodiment of Zeus' thunder' or 'Thors Hammer' while you were fighting evil in the living realm. Now you have joined the kaios in the afterlife, securing Heaven together with the Guardians and Asgardians and fighting the forces of evil when they get out of hand."
+				var/Choice=alert(src,"You served the forces of good by aligning yourself with a pantheon, declaring yourself things like 'the living embodiment of Zeus' thunder' or 'Thors Hammer' while you were fighting evil in the living realm. Now you have joined the kaios in the afterlife, securing Heaven together with the Guardians and Asgardians and fighting the forces of evil when they get out of hand.")
 				switch(Choice)
 				    if("No") History()
 					if("Yes")

@@ -1,0 +1,248 @@
+"aa" = (/turf/void,/area)
+"ab" = (/turf/void{icon_state = "tr-wall lower right"},/area/shadow_room)
+"ac" = (/turf/void{icon_state = "tr-wall lower"},/area/shadow_room)
+"ad" = (/turf/void{icon_state = "tr-wall lower left"},/area/shadow_room)
+"ae" = (/turf/void{icon_state = "tr-wall right"},/area/shadow_room)
+"af" = (/turf/wall{icon_state = "wooden wall"},/area/shadow_room)
+"ag" = (/turf/void{icon_state = "tr-wall left"},/area/shadow_room)
+"ah" = (/turf/floor{icon_state = "tr-floor 1"},/area/shadow_room)
+"ai" = (/turf/floor{icon_state = "tr-floor 2"},/area/shadow_room)
+"aj" = (/turf/floor{icon_state = "tr-floor 3"},/area/shadow_room)
+"ak" = (/turf/floor{icon_state = "tr-floor 4"},/area/shadow_room)
+"al" = (/turf/floor{icon_state = "tr-floor 5"},/area/shadow_room)
+"am" = (/turf/floor{icon_state = "tr-floor 3"},/turf/hearth{dir = 4; luminosity = 2},/area/shadow_room)
+"an" = (/turf/void,/area/pool_room)
+"ao" = (/turf/floor{icon_state = "tr-floor 2"; dir = 8},/turf/hearth,/area/shadow_room)
+"ap" = (/turf/void{icon_state = "wall right"},/area)
+"aq" = (/turf/wall{icon_state = "pillar"},/area/pool_room)
+"ar" = (/turf/wall{icon_state = "fountain left"},/area/pool_room)
+"as" = (/turf/red_fountain/fountainhead/wall,/area/pool_room)
+"at" = (/turf/wall{icon_state = "fountain right"},/area/pool_room)
+"au" = (/turf/wall{icon_state = "pillar"; opacity = 0},/area/pool_room)
+"av" = (/turf/wall,/area/pool_room)
+"aw" = (/turf/green_fountain/fountainhead/wall,/area/pool_room)
+"ax" = (/turf/void{icon_state = "wall left"},/area/pool_room)
+"ay" = (/mob/thief,/turf/floor{icon_state = "tr-floor 5"},/area/shadow_room)
+"az" = (/turf/floor{icon_state = "alternate"},/area/pool_room)
+"aA" = (/turf/floor,/area/pool_room)
+"aB" = (/obj/liquid/red,/turf/red_fountain/fountainhead{icon_state = "top"; layer = 3},/area/pool_room)
+"aC" = (/turf/statue,/area/pool_room)
+"aD" = (/obj/liquid/green,/turf/green_fountain/fountainhead{icon_state = "top"; layer = 3},/area/pool_room)
+"aE" = (/turf/void,/area/shadow_room)
+"aF" = (/turf/void{icon_state = "wall top"},/area/shadow_room)
+"aG" = (/turf/void{icon_state = "wall top and right"},/area/shadow_room)
+"aH" = (/turf/floor{icon_state = "tr-floor wall lower"},/area/shadow_room)
+"aI" = (/turf/void{icon_state = "wall top and left"},/area/shadow_room)
+"aJ" = (/obj/liquid/red,/turf/floor,/area/pool_room)
+"aK" = (/obj/liquid/green,/turf/floor,/area/pool_room)
+"aL" = (/turf/wall,/area/mouth_room)
+"aM" = (/turf/wall{icon_state = "alternate"},/area/mouth_room)
+"aN" = (/turf/wall{icon_state = "pillar"},/area/mouth_room)
+"aO" = (/mob/mouth,/turf/arch,/area/mouth_room)
+"aP" = (/turf/void{icon_state = "wall left"},/area)
+"aQ" = (/turf/floor{icon_state = "alternate"},/area/mouth_room)
+"aR" = (/turf/floor,/area/mouth_room)
+"aS" = (/obj/liquid/blue,/turf/floor,/area/pool_room)
+"aT" = (/turf/wall{icon_state = "end left"},/area/pool_room)
+"aU" = (/turf/wall{icon_state = "end right"},/area/pool_room)
+"aV" = (/turf/red_fountain,/area/pool_room)
+"aW" = (/obj/liquid/blue,/turf/green_fountain,/area/pool_room)
+"aX" = (/turf/floor{icon_state = "fountain rim top left"},/area/pool_room)
+"aY" = (/turf/floor{icon_state = "fountain rim top right"},/area/pool_room)
+"aZ" = (/turf/floor{icon_state = "wall corner left"},/area/pool_room)
+"ba" = (/turf/floor{icon_state = "wall lower"},/area/pool_room)
+"bb" = (/turf/floor{icon_state = "wall lower"},/area/mouth_room)
+"bc" = (/turf/floor{icon_state = "wall corner right"},/area/mouth_room)
+"bd" = (/turf/floor{icon_state = "wall corner left"},/area/mouth_room)
+"be" = (/turf/floor{icon_state = "fountain rim lower left"},/area/pool_room)
+"bf" = (/turf/floor{icon_state = "fountain rim lower right"},/area/pool_room)
+"bg" = (/turf/void{icon_state = "wall inside corner left"},/area/pool_room)
+"bh" = (/turf/void,/area/mouth_room)
+"bi" = (/turf/void{icon_state = "wall inside corner right"},/area/mouth_room)
+"bj" = (/turf/void{icon_state = "wall inside corner left"},/area/mouth_room)
+"bk" = (/turf/void{icon_state = "wall inside corner right"},/area)
+"bl" = (/turf/floor{icon_state = "wall corner right"},/area/pool_room)
+"bm" = (/turf/floor,/turf/blue_fountain,/area/pool_room)
+"bn" = (/turf/wall{icon_state = "pillar"},/area/evil_room)
+"bo" = (/turf/wall{icon_state = "alternate"},/area/evil_room)
+"bp" = (/turf/wall,/area/evil_room)
+"bq" = (/turf/arch,/area/evil_room)
+"br" = (/turf/void{icon_state = "wall left"},/area/evil_room)
+"bs" = (/turf/void{icon_state = "wall inside corner right"},/area/pool_room)
+"bt" = (/turf/floor,/area/evil_room)
+"bu" = (/turf/floor{icon_state = "alternate"},/area/evil_room)
+"bv" = (/turf/wall,/area/entrance)
+"bw" = (/turf/wall{icon_state = "alternate"},/area/entrance)
+"bx" = (/turf/wall{icon_state = "pillar"},/area/entrance)
+"by" = (/mob/rat,/turf/arch,/area/entrance)
+"bz" = (/turf/table{icon_state = "upper"},/area/storage_room)
+"bA" = (/turf/wall{icon_state = "pillar"},/area/storage_room)
+"bB" = (/turf/wall,/area/storage_room)
+"bC" = (/turf/table{icon_state = "upper with web"},/area/storage_room)
+"bD" = (/turf/floor,/area/entrance)
+"bE" = (/turf/floor{icon_state = "alternate"},/area/entrance)
+"bF" = (/obj/cheese,/turf/table{icon_state = "middle"},/area/storage_room)
+"bG" = (/turf/floor{icon_state = "alternate"},/area/storage_room)
+"bH" = (/turf/floor,/area/storage_room)
+"bI" = (/turf/table{icon_state = "middle"},/area/storage_room)
+"bJ" = (/mob/witch,/turf/floor{icon_state = "ritual floor 1"},/area/evil_room)
+"bK" = (/turf/floor{icon_state = "ritual floor 2"},/area/evil_room)
+"bL" = (/obj/jug,/turf/table{icon_state = "middle"},/area/storage_room)
+"bM" = (/turf/floor{icon_state = "ritual floor 3"},/area/evil_room)
+"bN" = (/turf/floor{icon_state = "ritual floor 4"},/area/evil_room)
+"bO" = (/turf/floor{icon_state = "wall corner right"},/area/evil_room)
+"bP" = (/turf/floor{icon_state = "wall corner left"},/area/evil_room)
+"bQ" = (/turf/void{icon_state = "wall inside corner left"},/area/evil_room)
+"bR" = (/turf/table{icon_state = "lower with web"},/area/storage_room)
+"bS" = (/turf/table,/area/storage_room)
+"bT" = (/turf/void{icon_state = "wall inside corner right"},/area/evil_room)
+"bU" = (/turf/floor{icon_state = "wall lower"},/area/evil_room)
+"bV" = (/turf/void{icon_state = "wall inside corner left and right"},/area/evil_room)
+"bW" = (/turf/void,/area/evil_room)
+"bX" = (/turf/floor{icon_state = "wall corner right"},/area/storage_room)
+"bY" = (/turf/floor{icon_state = "wall corner left"},/area/storage_room)
+"bZ" = (/turf/floor{icon_state = "wall lower"},/area/storage_room)
+"ca" = (/turf/void{icon_state = "wall inside corner left"},/area)
+"cb" = (/turf/light_trigger/red,/area/evil_room)
+"cc" = (/turf/light_trigger/green,/area/evil_room)
+"cd" = (/turf/light_trigger/blue,/area/evil_room)
+"ce" = (/turf/light_trigger/yellow,/area/evil_room)
+"cf" = (/turf/light_trigger/cyan,/area/evil_room)
+"cg" = (/turf/light_trigger/magenta,/area/evil_room)
+"ch" = (/turf/light_trigger/white,/area/evil_room)
+"ci" = (/turf/void{icon_state = "wall inside corner right"},/area/storage_room)
+"cj" = (/turf/void{icon_state = "wall inside corner left"},/area/storage_room)
+"ck" = (/turf/void,/area/storage_room)
+"cl" = (/turf/wall{icon_state = "end left"},/area/entrance)
+"cm" = (/turf/door/closed,/area/entrance)
+"cn" = (/turf/void{icon_state = "wall left"},/area/entrance)
+"co" = (/turf/void{icon_state = "right and inside corner left"},/area/light_room)
+"cp" = (/turf/wall{icon_state = "alternate"},/area/light_room)
+"cq" = (/turf/wall{icon_state = "pillar"},/area/light_room)
+"cr" = (/turf/wall,/area/light_room)
+"cs" = (/turf/void{icon_state = "left and inside corner right"},/area/light_room)
+"ct" = (/turf/void{icon_state = "wall left and right"},/area/evil_room)
+"cu" = (/turf/wall{icon_state = "end right"},/area/light_room)
+"cv" = (/turf/floor,/area/light_room)
+"cw" = (/turf/floor,/area/light_wall)
+"cx" = (/turf/floor{icon_state = "alternate"},/area/light_wall)
+"cy" = (/turf/wall{icon_state = "end left"},/area/light_room)
+"cz" = (/obj/scroll/intro,/turf/floor,/area/entrance)
+"cA" = (/turf/floor{icon_state = "alternate"},/area/light_room)
+"cB" = (/obj/chest,/turf/floor,/area/light_room)
+"cC" = (/turf/void{icon_state = "wall corner right"},/area)
+"cD" = (/turf/void{icon_state = "wall top"},/area)
+"cE" = (/turf/void{icon_state = "wall top"},/area/entrance)
+"cF" = (/turf/void{icon_state = "wall corner left"},/area/entrance)
+"cG" = (/turf/void{icon_state = "wall corner left"},/area)
+"cH" = (/turf/ocean,/area)
+"cI" = (/turf/ocean{density = 0},/area/end)
+"cJ" = (/turf/ocean,/area/end)
+"cK" = (/turf/ocean,/turf/spray,/area/end)
+"cL" = (/turf/ocean{density = 0},/turf/palm_tree_2,/area/end)
+"cM" = (/turf/ocean{density = 0},/turf/waterfall,/area/end)
+"cN" = (/turf/ocean{density = 0},/turf/palm_tree_1,/area/end)
+"cO" = (/turf/ocean{density = 0},/turf/palm_tree_2/palm_2_sand,/area/end)
+"cP" = (/turf/ocean{density = 0},/turf/end,/area/end)
+"cQ" = (/turf/ocean{density = 0},/turf/palm_tree_1/palm_2_sand,/area/end)
+"cR" = (/turf/island,/area)
+"cS" = (/turf/ocean{icon_state = "land south 1"},/area)
+"cT" = (/turf/ocean{icon_state = "land south 2"},/area)
+"cU" = (/turf/hill,/area/lerf_kingdom)
+"cV" = (/turf/ocean{icon_state = "corner"},/area)
+"cW" = (/turf/hill{icon_state = "no right"},/area/lerf_kingdom)
+"cX" = (/turf/grass,/area/lerf_kingdom)
+"cY" = (/turf/grass{icon_state = "flowerz"},/area/lerf_kingdom)
+"cZ" = (/turf/hill{icon_state = "no left"},/area/lerf_kingdom)
+"da" = (/obj/barrel,/mob/lerf/worker,/turf/floor,/area/lerf_kingdom)
+"db" = (/turf/hill{icon_state = "no left or right"},/area/lerf_kingdom)
+"dc" = (/turf/ocean{icon_state = "land west"},/area)
+"dd" = (/turf/grass{icon_state = "grass"},/area/lerf_kingdom)
+"de" = (/turf/tree,/area/lerf_kingdom)
+"df" = (/turf/tree{icon_state = "right"},/area/lerf_kingdom)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacacacacacacacacacadaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeafafafafafafafafafagaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeahaiajakalalajahalagaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaialalalajalalakaiagaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaealahalalalalalalahagaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeamalalaiahalalajalagaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaealaialalalakalalalagaaaa
+aaananananananananananananananaaaaaaaaaeahalalahalalalahaoagaaaa
+apaqarasatauavavavauarawataqaxaaaaaaaaaeakajahalalaiajalayagaaaa
+apazaAaBaAaAaCaAazaAaAaDaAaAaxaaaaaaaaaEaFaFaFaGaHaIaFaFaFaEaaaa
+apaAaJaJaJaAazazaAaAaKaKaKaAaxaaaaaaaaapaLaMaLaNaOaNaLaMaLaPaaaa
+apaJaJaJaJaJaAaAaAaKaKaKaKaKaxaaaaaaaaapaQaRaQaRaRaRaRaRaRaPaaaa
+apaAaJaJaJaAaAaAaAaAaKaKaKaAaxaaaaaaaaapaRaQaRaRaRaQaRaQaQaPaaaa
+apaAaAaJaAaAaAaSaAaAaAaKaAaAaTaqavavaqaUaRaRaRaRaRaRaRaRaRaPaaaa
+apaVaAaAaAaAaSaSaWaAazaAazazazaAazaAaAaAaQaRaRaQaRaRaRaRaQaPaaaa
+apaAaXaYaAaSaSaSaSaSaAaXaYaAaZbabababababbbbbbbcaQbdbbbbbbaPaaaa
+apaAbebfaAaAaSaSaSaAaAbebfaAbganananananbhbhbhbibbbjbhbhbhaaaaaa
+bkbabablbmaZaAaSaAbabababababgapbnbobnbpbnbobnbnbqbnbnbobnbpbnbr
+aaananbsbabganananananananananapbtbtbtbubtbubtbubtbtbtbtbubtbubr
+apbvbwbxbybxbwaPapbzbAbBbAbCaPapbtbtbtbtbubtbtbtbtbubtbtbtbtbtbr
+apbDbEbEbDbDbDaPapbFbGbHbGbIaPapbubJbKbtbtbtbtbtbtbtbtbubtbubtbr
+apbEbDbEbDbEbDaPapbIbHbGbGbLaPapbtbMbNbtbtbtbubtbubtbubtbtbtbtbr
+apbDbEbDbDbDbEaPapbIbHbHbHbIaPbkbObubPbtbObubPbtbObtbObtbObtbPbQ
+apbDbDbDbEbEbDaPapbRbGbHbHbSaPaabTbUbVbUbVbUbVbUbVbUbVbUbVbUbQbW
+apbDbDbEbDbDbDaPapbXbHbYbZbZcaapbocbbnccbncdbncebncfbncgbnchbpaP
+apbDbEbDbEbDbDaPaacibZcjckckaaapbtbtbtbubPbUbUbUbUbUbObtbtbtbtaP
+apbDbDbDbDbDbEclbxbvcmbwbxbvcnapbububtbPcocpcqcpcqcrcsbObtbubuaP
+apbDbEbDbDbEbDbDbDbDbDbEbDbDcnapbtbtbuctcucvcwcwcxcvcyctbubtbtaP
+apbDczbDbEbDbEbDbEbEbDbDbEbDcnapbubtbuctcvcAcwcBcwcAcvctbubtbtaP
+apbEbEbEbDbEbDbDbEbDbDbEbDbDcnapbtbubtcycvcAcxcwcwcAcvcubtbubtaP
+apbDbDbEbDbDbDbDbDbDbEbDbDbDcnapbtbubtcvcvcvcvcAcvcvcAcvbtbtbtaP
+cCcDcDcDcDcDcDcEcEcEcEcEcEcEcFcCcDcDcDcDcDcDcDcDcDcDcDcDcDcDcDcG
+"}
+
+(1,1,2) = {"
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcIcIcIcIcIcIcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcIcIcIcIcIcIcIcIcIcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcJcJcJcJcIcIcIcIcIcIcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcJcKcJcJcIcLcIcIcIcIcIcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcMcJcJcIcIcIcNcIcOcIcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcNcIcPcIcIcIcIcIcIcIcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcIcIcIcIcIcIcIcIcIcIcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcIcIcIcIcNcLcIcIcIcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcLcIcIcIcIcIcIcIcIcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcIcIcIcIcIcIcIcIcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcIcIcIcIcQcIcIcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcIcIcIcIcIcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcRcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cScTcScHcScScTcTcHcScTcScHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcHcH
+cUcUcUcUcUcUcUcUcUcUcUcUcVcHcScTcHcScTcHcHcHcHcHcHcHcHcHcHcHcHcH
+cWcXcYcZcWdadbcXdbcXcZcUcUcUcUcUcUcUcUdccHcHcHcHcHcHcHcHcHcHcHcH
+cUcWcXcXcXcXcXcXcXcXcXcXddcXcXdacZcUcUcVcHcHcHcHcHcHcHcHcHcHcHcH
+cWcXcXddcXcXcXcYcXddcXcXcXcXcXcXcXcZcUcUdccHcHcHcHcHcHcHcHcHcHcH
+cUcWcXcXddcXcYcXcXcXcXcXcXcXcXddcXcXcZcUdccHcHcHcHcHcHcHcHcHcHcH
+cWcXcXcXcXcXcXcXcXcXcXdedfcXcXcXcYcXcXcZdccHcHcHcHcHcHcHcHcHcHcH
+cWdacXddcXcXcXcXcXddcXcXdadecXcXcXcXcXcZdccHcHcHcHcHcHcHcHcHcHcH
+cUcWcXcXcXcXddcXcYcXcXcXdedfcXcXcXcXcZcUdccHcHcHcHcHcHcHcHcHcHcH
+cUcWcXdedfcXcXcXcXcXcXcXcXcXcXcXddcXcZcUdccHcHcHcHcHcHcHcHcHcHcH
+cWddcXcYdecXcXcXcXdbcXcXcXddcXcXcXcXcZcUdccHcHcHcHcHcHcHcHcHcHcH
+cWcXcXcXcXcXddcXcXcXcZcWddcXcXcYcXcXdacZdccHcHcHcHcHcHcHcHcHcHcH
+cUcXdbcXdbcXcXcZcWdacZcWcXcXddcXcXcXcZcUdccHcHcHcHcHcHcHcHcHcHcH
+cUcUcUcUcUcUcUcUcUcUcUcUcUcUcUcUcUcUcUcUdccHcHcHcHcHcHcHcHcHcHcH
+"}
