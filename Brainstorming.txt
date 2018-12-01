@@ -1,0 +1,242 @@
+Brainstorming Notes
+
+This is just notes that I come up with and what I'm thinking about. As it's clear that there is some things that are really important to a great game epecially a multiplayer game. 
+
+It's obvious that the game currently has issues on its own although within time it can be fixed but I'm just writing these notes so that there is some sort of direction or a confirmation of what is considered "good".
+
+
+
+Important Aspects to a Good Game
+* This is considering that it'll be both PVP and RP *
+
+- Combat
+- System
+- Player
+- Theme
+- The design/Look of the game
+- The World
+- Customizability (Player Individuality)
+- The "It" factor
+
+
+
+
+
+
+
+
+
+
+
+
+
+Combat
+It's probably the most important factor if not the biggest factor that keeps people hooked. It's the height of where the fun should be centered since it is a fighting game.
+
+Question: Is the game skill based or a pure numbers game?
+
+Kent's Answer: I'd argue a good 60-75% Numbers game and a 25-40% skills based. My reasoning is that on terms of PVP someone who's just started has no knowledge of the game and is more interested in increasing the numbers more than learning how to fight. (If Combat is fun then they'll be more interested in how to fight) In a RP setting what people will be focused on is strickly numbers opposed to skill.
+
+Question: What's the best fighting game on byond currently or which game had the best system?
+
+Kent's Answer: The best combat in byond or that byond has is probably Dragon Universe and it's different incanations including Finale/Zee/Lizard Sphere X/Super/Ki Fighters. There is currently and were elements that were extremely good and made logically since to the core of Dragon Ball.
+
+Question: What is considered a good combat system?
+
+Kent's Answer: One that has fluidity of movement, lasts a considerable amount of time and keeps tension high through visual que's. It should be known when one character or the other is losing after a set amount of time but unknown when the battle begins.
+
+*Sub Notes on Combat* (Not neccesary but just a side note)
+	Stats
+	Currently the main stats are as follows and this how they should work or rather how it could be better.
+	-Strength: It's a players main damage in melee. The higher this stat is the more damage a player should be able to inflict.
+	-Speed: This is the stat that determines how fast you attack and how fast you're ability is to move. It's simply the idea of stationary movement. It should be a static movement/
+	-Durabilty: This is the stat that determines how much damage you can take before being knocked unconcious. This should be a defensive stat it should resemble how well someone can take damage and how high someone's health is compared to someone else.
+	-Resistance: This is the stat that determines how much damage you can resists from Ki attacks. This should be a stat that determines how much damage you can resists from being pushed backwards/stunned/thrown/grabbed/etc. It's thought to be the primary stat against Force Damage but shouldn't Durability just be the same? It's not necessary to have this stat in my opinon unless it's made differently.
+	-Offense/Accuracy: This is the stat that determines how accurate you are to landing attacks rather it be melee or force although for most games it's for melee. This should be a stat that determines the equivalent of a players coordination skill. 
+	-Force: This is the players main damage in force. The higher this stat is the more damage a player should be able to inflict with Ki.
+	-Defense/Reflex: This is the stat taht determines how accurate you are to dodging attakcs rather it be melee or force although for most games it's for melee. This should be a stat that determines a person reflex skill.
+
+Stats Cont.
+	- The stat system currently works. Though in my opinion stats should determine how your player or how you like to play in a game and shouldn't be a major factor to how well you are at butchering the system and creating an extremely overrated build. 
+
+EX: There were many times where Exgensis would log on with complete knowledge of how stats worked, made the most overpowered and best build a race can use and would utilize it against players.
+
+	- Stats should be a fun experience with each stat being different enough to notice but not be the main focus of gameplay. For example it's the basic RPG system to when you're chossing your class.
+	- Classes in normal RPG games: Warrior, Rogue, Mage, Ranger, Beserker
+
+
+
+
+
+
+*Side note* 
+Wouldn't it be cool to play the game like Skyrim. Where you started with nothing and would train certain skills and end up being that class towards the midddle of your play through and suddenly change or adapt through the game? With how the game could be played, certain equipments or ways you train should determine how well you are in a stat compared to another stat. 
+
+Example: Goku training in the gravity champer increased his overall power but what was most noticable was his speed. Gravity Training= Higher Speed
+
+Example: Training with weighted clothing increased speed and reflex when Gkou removed his training gi he was able to move faster but also was quicker on his feet.
+
+(How could this work?) Different training equipments/verbs that should be basic at first but with better technology it should increase.
+Basic Verbs (All these should increase overall Powerlevel)
+-Punching the air/Shadow boxing should increase your Durability and Strength
+-Meditating/Ki Training shoud increase Force
+-Shadow Sparring should increase Reflex/Speed/Offense
+-Ki Resistance Training should increase Resistance (resistance could be replaced with Durability)
+
+Technology/Equipment Training (These should increase Powerlevel more)
+-Punching Bag should increase Durabilty and Strength
+-Speed Bag should increase Speed and Accuracy
+-Ki Ball Training should increase Force
+-Simulator Training should increase Reflex/Speed/Offense
+-Treadmill Should increase Speed/Energy
+-Log Training Should increase Accuracy/Reflex
+-Weight Lifting Should increase Strength
+
+-Weights should lower your ability to move by alot. Your reactions are slowed the closer you get to the max amount of weight you can withstand. Training with them increases BP/Speed/Defense(Reflex). Wearing weights should lower your Battle Power by 20%. You should get better at weight training by withstanding a certain amount of weight. It's based off of BP. (The big thing is wearing weights all the time shouldn't be helpful. it should be a training thing)
+
+
+Advance Training (These should massively increase Powerlevel)
+-Gravity Training should increase all stats but have a big effect on speed/durability/strength
+-Hyperbolic Time Chamber should increase all stats but have a big effect on offense/defense
+-Core Training should increase all stats but have a big effect on off/def. (this is determined by how well you're good at fighting multiple enemies at low levels of power. It could kill you if you're unconcious and is dangerous but it's better than any other training if you survive)
+-*new* Climate Room Training should increase all stats but have a big effect on Durabilty and Force. (Moving in this room or training injuries yourself and doesn't have any effect)
+-*new*Low Oxygen Room training should increase all stats but have a big effect on Energy and Durability. (This attacks your energy rather than health)
+-*new* Simulation Room training should increase all stats but have a big effect on Off/Def(rel/acc) (This is determined by how well you're good at fighting multiple enemies at low levels of power. It turns off after you're unconcious.
+-*new* God Ki Realm training should increase all stats but have a big effect on Energy. This realm gives you God Ki.
+*side note over*
+
+
+
+
+
+
+
+Combat Cont.
+The Basics Melee: (without added Melee skills)
+	Knockback, Warp Attack, Guarding, Grab, Throw, Strangle
+
+Melee Skills: *Most of these are New*
+	Dash Attack, Ki Palm, Counter, Dragon Fist, Super Dragon Fist, One Inch Punch, Lariat, Shockwave
+
+Basic Ki Attacks: (The ones without any added effect)
+	Blast, Charge, Beam,
+
+Ki Skills: *All Strong Beams. AKA Kamehameha, Galic Gun, Etc.* Spin blast, Shield, Scatter-Shot, Spirit Bomb, Kienzan, Sokidan, 
+
+Techniques: (These effect BP/Stats and have effects)
+	Expand, Kaioken (King Kai Fist), Ultra Instinct, Regeneration, Mystic, Limit Breaker, Third Eye, Precognition, Custom Technique (For Cardinal Kais), Ki Blade, Instant Transmission
+
+Transformations: (These effect BP and have animations when used)
+	Super Saiyan 1, 2, 3, Ultra Super Saiyan, SSG, SSGSS, SSGSS Beyond, Alien Transformation, Bojack Transformation, Golden Form, Super Namekian (Permanent), Oozaru
+
+Fusions: (These fuse two characters together and allows one or the other to use)
+	Potara Fusion (Permanent), Metamorian Fusion, Namekian Fusion (Permanent)
+
+
+Weapons (Should overall be weaker than fighting because they would hinder certain stats or abilities. Most DBZ Fighters use their fists for a reason. Weapons should break easily): Guns(Weak), Ki Blasters(Moderate), Laser Cannon(Moderate), Sword(Moderate), Hammer(Weak),
+
+
+
+
+
+
+
+
+System
+The system is important but what's even better is when you find through the game either randomly or something you never knew of. It should be simple to understand.
+
+System inculdes different aspects so this is the breakdown:
+Technology/Magic
+Movement
+How different Skills/things operate
+Roleplaying Systems/Operation
+Building Operation
+Options
+RPG element
+
+
+Technology/Magic
+	Technology should be fun and should be useful for races like Tsujin, Humans, and Smart Aliens. Magic should be fun and should be useful for races like, Demons, Kais, Majins, Aliens, Namekians
+
+Learning should have the equivalent fun just like training. There should be different aspects in regards to the difference between Technology and Magic.
+	
+Meditating: Trains Knwoledge, the basic knowledge trainer.
+Meditating: Trains Magic, the basic magic enhancer.
+Books: Writing books and reading books train your knowledge.
+Spell Book: Writing spell books and reading spell books train your knowledge.
+Research on Computer: Should train knowledge exponentially
+Utilizing a Meditation Mat: Should enhance Magic exponentially
+
+Reading Books Written by other Players: Should be like sparring. Its the best way to catch up quickly.
+
+
+Movement
+	Movement should be fluid and is used by arrow keys. Flying wastes energy, swimming wastes energy. Pressing up and right should move diagonal.
+
+How different Skills/Things operate
+	The way skills operate is important and should be considered.
+
+RPG Element
+	In a normal RPG game, there is leveling up, getting better gear and better equipment that'll enhance your ability to fight stronger enemies. NPC's and it's focused more on Player Interaction with the Enviornment.
+- The best way to describes this for a byond game is games such as Heroes United or Dragon Ball Shuurajou(Really Old game)
+-NPC's acted as quest markers and you'd follow the story of a DBZ character. You could buy equipment such as scouters and interact with them for different skills.
+
+For the Hardcore Roleplayer, this should all be done via In Character. There should be people for this, though I believe it's possible to put it in the game but should have the option to either be turned off or on. This should never be hardcoded.
+
+NPC Citizens. They should work like a day and night cycle and should and can be killed by Players. For example in a RP scenario to make a point a villian could kill a ton of NPC's in a small village. They wouldn't be strong. Ever but they would just operate as casual players.
+	- They will have a destined home to go to at night and talk occasionally but not all the time. They don't move randomly but would sell things like food, drinks, small tech that's in the science tab for low intellect players. Clothes would be sold by them but players can and should also be able to make their own.
+	-Non senseble and will have normal RP names. Afterlife NPC's will be random souls who would talk occasionally and have a place to go as well. If NPC's are destroyed they go there.
+
+NPC's shouldn't be moving around randomly but be set aside in different locations
+
+NPC's should be added only if server wants NPC's for the sake of RP. If it ruins a certain theme of a wipe then it can be removed and be added at any point within the game.
+
+NPC's that die will be replaced by there children so Last names will always remain the same. EX: Mr/Mrs. Telebobble
+
+NPC's could be a later Element because as of now the coding could be difficult though it is possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Player
+
+Players should have the abilty to change themselves whenever they want. Though if the survivalbility is added like in Dragon Ball Generations players would have to find animals to slaughter and take their clothes for leather cloth options. They'd have to shave sheep for cotton clothes options. So on so forth. In order to change clothing icons they'd have to make a sowing machine or a thread and needle.
+
+Players should be able to change there hair whenever they want. They should be able to have the abilty to change the icon of their transformation hair as well through a verb.
+
+Players should be able to change their aura's and the color of their auras. The color of their charging icon, the color of their beams etc. Additionally having the option to use other icons for their aura by changing icons, etc.
+
+Players should be able to change their character description for RP by if someone were to click on them then their character description pops up as a window. The window can be HTML or a automated made frame in which the put their information in. (I can probably do the HTML part)
+
+Status bar design should have a picture of player icon inside the status bar (Like Budokai or Xenoverse etc) I could make the design for such status bar but how it would work is it would take a snap shot of the player only when they face forward everytime they relog or when the game saves all items. It would only do it for characters facing forward and won't do it until they press the down key. This could also be set if they press the FixMe button.
+
+Races:
+Human: 1x
+Spiritdoll: 1x
+Alien: 1.5x
+Bio-Andriod: 2.3x
+Majin (Female/Male): 2.5x
+Icer: 2x
+Saiyan (low-mid-elite): 2x
+Namekian (dragon-fighter): 1.8x
+Demigod: 2x
+Demon (Earth/Hell): 2x
+Kai: 1.8x
+Arconian: 1.5x
+Konatsian: 1.6x
+Bojack Race: 2x
+Metamorian: 1.5x
+Tsujin: 1x
+Andriod: 1.5x
+Legendary Saiyan: 2.5x
+
+
