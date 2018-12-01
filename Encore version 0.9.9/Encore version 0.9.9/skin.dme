@@ -1,0 +1,15 @@
+// DM environment file for Dragonn.DBF: skin.dme
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_INCLUDE
+#include "Skin.dmf"
+// END_INCLUDE
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES

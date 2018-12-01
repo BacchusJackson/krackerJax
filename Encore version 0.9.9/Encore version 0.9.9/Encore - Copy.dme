@@ -1,0 +1,37 @@
+// DM Environment file for Encore.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "BattleStuff.dm"
+#include "Communications.dm"
+#include "DemonStuff.dm"
+#include "Guest Ban.dm"
+#include "Items.dm"
+#include "KiAttacks.dm"
+#include "KiSkills.dm"
+#include "Login.dm"
+#include "Makyo Star.dm"
+#include "MapStuff.dm"
+#include "MobStuff.dm"
+#include "Multi-Passenger Spaceship.dm"
+#include "Ranks.dm"
+#include "Shops.dm"
+#include "StatStuff.dm"
+#include "TechStuff.dm"
+#include "Training Stuff.dm"
+#include "Transformations.dm"
+#include "Window.dm"
+#include "Skin.dmf"
+#include "EncoreMaps.dmm"
+// END_INCLUDE
+
