@@ -1,0 +1,15 @@
+"a" = (/turf/Grass1,/area)
+"b" = (/mob/Enemy/VegetaFighter,/turf/Grass1,/area)
+
+(1,1,1) = {"
+aaaaaaaaaa
+abbbbbbbba
+abbbbbbbba
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+"}
