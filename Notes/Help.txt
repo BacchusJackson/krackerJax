@@ -1,0 +1,21 @@
+Can you add and commit at the same time?
+Yes
+
+Commands for git:
+
+git add -A
+
+git status
+
+git commit - m "Message"
+
+git pull
+
+git push
+
+(Esc Button) :wq
+
+(Insert) i
+
+
+
