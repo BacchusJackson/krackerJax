@@ -1,5 +1,0 @@
-mob/Login()
-	..()
-	if(findtext("guest-"))
-		alert(src, "To play Encore you must use a real key.")
-		del(src)
